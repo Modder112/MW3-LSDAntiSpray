@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\AntiSpray\AntiSpray\bin\Debug\AntiSpray.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\AntiSpray\AntiSpray\bin\Debug\AntiSpray.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\AntiSpray\AntiSpray\bin\Debug\InfinityScript.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\AntiSpray\AntiSpray\obj\Debug\AntiSpray.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\AntiSpray\AntiSpray\obj\Debug\AntiSpray.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\AntiSpray\AntiSpray\obj\Debug\AntiSpray.pdb
